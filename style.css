@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+ .container{
+    background-color:firebrick ;
+    color: aliceblue;
+    padding: 15px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serifs;
+ }
